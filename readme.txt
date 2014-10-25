@@ -1,2 +1,3 @@
-git is a goog vision .
+git is a goog version .
 git is a good free soft.
+Git has a mutable index called stage.
