@@ -1,2 +1,2 @@
 git is a goog vision .
-git is a free soft.
+git is a good free soft.
